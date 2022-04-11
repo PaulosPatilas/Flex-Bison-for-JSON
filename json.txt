@@ -1,0 +1,25 @@
+{
+"created_at":Mon Jun 25 10:30:59 12345,
+"text":"ArxesGlwsswn" ,
+"id_str": "1234567890" , 
+"user":{
+"name":"pavlos",
+"id":13243546,
+"screen_name":"Test",
+"location":"Patra"},   
+"retweeted_status":{
+"user":{
+"screen_name":"Test"
+},
+"text":"i love json"},
+"tweet":{
+"text":RT@"pavlos","i love json too",
+"user":{
+"screen_name":"Test"
+}
+},
+"truncated":true,"display_text_range":[140],
+"extended_tweet":{
+"full_text":"qwerasdfwerasdfqwefsdvjwjevhjasjdhfquwjdhfquwioopaljkhdcnqyqwerasdfwerasdfqwefsdvjwqwerasdfwerasdfqwefsdvjwjevhjasjdhfquwjdhfquwioopaljkhdcnqqwerasdfwerasdfqwefsdvjwjevhjasjdhfquwjdhfquwioopaljkhdcnqyqwerasdfwerasdfqwefsdvjwqwerasdfwerasdfqwefsdvjwjevhjasjdhfquwjdhfquwioopaljkhdcnqyqwerasdfwerasdfqwefsdvjwqwerasdfwerasdfqwefsdvjwjevhjasjdhfquwjdhfquwioopaljkhdcnqyqwerasdfwerasdfqwefsdvjwyqwerasdfwerasdfqwefsdvjwqwerasdfwerasdfqwefsdvjwjevhjasjdhfquwjdhfquwioopaljkhdcnqyqwerasdfwerasdfqwefsdvjw",
+"display_text_range":[140]
+}
